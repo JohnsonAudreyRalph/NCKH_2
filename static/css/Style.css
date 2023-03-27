@@ -67,6 +67,13 @@ body{
     background-image: url(../img/Air_Conditioning_Off.png);
 }
 
+.BUTTON_ON{
+    background-color: green;
+}
+
+.BUTTON_OFF{
+    background-color: red;
+}
 
 .ON_OFF{
     background-repeat: no-repeat;
